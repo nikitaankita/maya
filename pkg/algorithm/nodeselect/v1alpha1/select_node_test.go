@@ -19,8 +19,8 @@ package v1alpha1
 import (
 	"strconv"
 	"testing"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	ndmapis "github.com/openebs/maya/pkg/apis/openebs.io/ndm/v1alpha1"
 	"github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"
 	blockdevice "github.com/openebs/maya/pkg/blockdevice/v1alpha1"

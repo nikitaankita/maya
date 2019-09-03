@@ -22,8 +22,8 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/openebs/maya/pkg/webhook"
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/rest"

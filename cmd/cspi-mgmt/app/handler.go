@@ -18,8 +18,8 @@ package app
 
 import (
 	"fmt"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/cstor-pool-mgmt/controller/common"
 
 	zpool "github.com/openebs/maya/cmd/cstor-pool-mgmt/pool/v1alpha2"

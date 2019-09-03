@@ -30,7 +30,8 @@ import (
 	"time"
 
 	"github.com/ghodss/yaml"
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/maya-apiserver/app/config"
 	errors "github.com/openebs/maya/pkg/errors/v1alpha1"
 	"github.com/prometheus/client_golang/prometheus"

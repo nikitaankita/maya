@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 	"time"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	apis "github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"
 	bdc "github.com/openebs/maya/pkg/blockdeviceclaim/v1alpha1"
 	openebs "github.com/openebs/maya/pkg/client/generated/clientset/versioned"

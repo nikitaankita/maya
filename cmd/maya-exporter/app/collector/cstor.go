@@ -21,8 +21,8 @@ import (
 	"strings"
 	"sync"
 	"time"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	v1 "github.com/openebs/maya/pkg/stats/v1alpha1"
 	"github.com/pkg/errors"
 )

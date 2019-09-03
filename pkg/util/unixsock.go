@@ -18,8 +18,8 @@ import (
 	"io"
 	"net"
 	"strings"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 )
 
 // IstgtUctlUnxpath is the storage path for the UNIX domain socket from istgt

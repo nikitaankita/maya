@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"github.com/pkg/errors"
 	"strings"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	apis "github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"
 	env "github.com/openebs/maya/pkg/env/v1alpha1"
 	corev1 "k8s.io/api/core/v1"

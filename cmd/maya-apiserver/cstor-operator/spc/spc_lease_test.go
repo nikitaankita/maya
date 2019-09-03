@@ -17,8 +17,8 @@ package spc
 
 import (
 	apis "github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	openebsFakeClientset "github.com/openebs/maya/pkg/client/generated/clientset/versioned/fake"
 	env "github.com/openebs/maya/pkg/env/v1alpha1"
 	"k8s.io/api/core/v1"

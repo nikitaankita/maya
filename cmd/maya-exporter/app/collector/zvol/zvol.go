@@ -17,8 +17,8 @@ package zvol
 import (
 	"strings"
 	"sync"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	col "github.com/openebs/maya/cmd/maya-exporter/app/collector"
 	types "github.com/openebs/maya/pkg/exec"
 	zvol "github.com/openebs/maya/pkg/zvol/v1alpha1"

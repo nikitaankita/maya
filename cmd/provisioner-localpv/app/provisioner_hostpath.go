@@ -17,7 +17,8 @@ limitations under the License.
 package app
 
 import (
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/pkg/errors"
 
 	pvController "github.com/kubernetes-sigs/sig-storage-lib-external-provisioner/controller"

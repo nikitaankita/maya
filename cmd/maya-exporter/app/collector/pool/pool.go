@@ -17,8 +17,8 @@ package pool
 import (
 	"errors"
 	"sync"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	col "github.com/openebs/maya/cmd/maya-exporter/app/collector"
 	types "github.com/openebs/maya/pkg/exec"
 	zpool "github.com/openebs/maya/pkg/zpool/v1alpha1"

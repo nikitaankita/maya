@@ -34,8 +34,8 @@ package app
 import (
 	"fmt"
 	"strings"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/pkg/errors"
 
 	pvController "github.com/kubernetes-sigs/sig-storage-lib-external-provisioner/controller"

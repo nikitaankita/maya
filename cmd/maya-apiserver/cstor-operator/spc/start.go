@@ -18,8 +18,8 @@ package spc
 
 import (
 	"sync"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/pkg/errors"
 
 	"time"

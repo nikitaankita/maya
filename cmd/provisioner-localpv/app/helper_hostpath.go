@@ -22,8 +22,8 @@ package app
 import (
 	"path/filepath"
 	"time"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	errors "github.com/openebs/maya/pkg/errors/v1alpha1"
 
 	hostpath "github.com/openebs/maya/pkg/hostpath/v1alpha1"

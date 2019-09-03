@@ -20,8 +20,8 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 )
 
 //RegisterShutdownChannel closes the channel when signaled for termination

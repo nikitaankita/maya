@@ -19,8 +19,8 @@ import (
 	goflag "flag"
 	"net/url"
 	"time"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/maya-exporter/app/collector"
 	"github.com/openebs/maya/cmd/maya-exporter/app/collector/pool"
 	"github.com/openebs/maya/cmd/maya-exporter/app/collector/zvol"

@@ -27,8 +27,8 @@ import (
 
 	v1 "github.com/openebs/maya/pkg/stats/v1alpha1"
 	"github.com/pkg/errors"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 )
 
 // jiva implements the Volume interface. It exposes

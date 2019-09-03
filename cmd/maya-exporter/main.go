@@ -16,8 +16,8 @@ package main
 
 import (
 	"os"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/maya-exporter/app/command"
 	mayalogger "github.com/openebs/maya/pkg/logs"
 	"github.com/openebs/maya/pkg/version"

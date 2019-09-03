@@ -17,7 +17,8 @@ limitations under the License.
 package main
 
 import (
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/cspi-mgmt/app"
 	"os"
 )

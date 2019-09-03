@@ -300,6 +300,14 @@
   version = "1.0.1"
 
 [[projects]]
+  branch = "master"
+  digest = "1:48f489d7fdbc66941b50a9c2f5590add7ff951550cbbcf2e80a6d5920e1fb169"
+  name = "github.com/moteesh/mlogger"
+  packages = ["glog"]
+  pruneopts = "UT"
+  revision = "5d85ef083501eb91ba1daf514927706e08e0660c"
+
+[[projects]]
   digest = "1:5f4b78246f0bcb105b1e3b2b9e22b52a57cd02f57a8078572fe27c62f4a75ff7"
   name = "github.com/onsi/ginkgo"
   packages = [
@@ -1044,6 +1052,7 @@
     "github.com/jpillora/go-ogle-analytics",
     "github.com/kubernetes-sigs/sig-storage-lib-external-provisioner/controller",
     "github.com/mitchellh/mapstructure",
+    "github.com/moteesh/mlogger/glog",
     "github.com/onsi/ginkgo",
     "github.com/onsi/gomega",
     "github.com/pkg/errors",

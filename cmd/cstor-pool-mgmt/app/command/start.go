@@ -18,8 +18,8 @@ package command
 
 import (
 	goflag "flag"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 
 	"github.com/openebs/maya/cmd/cstor-pool-mgmt/controller/start-controller"
 	"github.com/spf13/cobra"

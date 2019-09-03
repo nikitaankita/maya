@@ -22,7 +22,8 @@ import (
 	"log"
 	"time"
 
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/spf13/pflag"
 	"k8s.io/apimachinery/pkg/util/wait"
 )

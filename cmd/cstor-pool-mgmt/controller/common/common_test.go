@@ -21,8 +21,8 @@ import (
 	"os/exec"
 	"testing"
 	"time"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/cstor-pool-mgmt/pool"
 	apis "github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"
 

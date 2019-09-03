@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 	"time"
-
-	"github.com/golang/glog"
+	"github.com/moteesh/mlogger/glog"
+	//"github.com/golang/glog"
 	apis "github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"
 	zpool "github.com/openebs/maya/pkg/apis/openebs.io/zpool/v1alpha1"
 	"github.com/openebs/maya/pkg/util"
@@ -486,3 +486,4 @@ func GetDeviceIDs(csp *apis.CStorPool) ([]string, error) {
 	}
 	return bdDeviceID, nil
 }
+

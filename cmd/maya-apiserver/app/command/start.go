@@ -27,7 +27,7 @@ import (
 	"strings"
 	"syscall"
 	"time"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	cvc "github.com/openebs/maya/cmd/cstorvolumeclaim"
 	"github.com/openebs/maya/cmd/maya-apiserver/app/config"

@@ -22,7 +22,7 @@ import (
 	"strconv"
 	"sync"
 	"time"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	kubeinformers "k8s.io/client-go/informers"
 	"k8s.io/client-go/kubernetes"

@@ -25,7 +25,7 @@ import (
 	pkg_errors "github.com/pkg/errors"
 
 	"strings"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/cstor-volume-mgmt/controller/common"
 	"github.com/openebs/maya/cmd/cstor-volume-mgmt/volume"

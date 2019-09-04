@@ -22,7 +22,7 @@ package app
 import (
 	"path/filepath"
 	"time"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	errors "github.com/openebs/maya/pkg/errors/v1alpha1"
 

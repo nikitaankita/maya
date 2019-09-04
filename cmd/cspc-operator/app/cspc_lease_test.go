@@ -21,7 +21,7 @@ import (
 	"os"
 	"strconv"
 	"testing"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	openebsFakeClientset "github.com/openebs/maya/pkg/client/generated/clientset/versioned/fake"
 	env "github.com/openebs/maya/pkg/env/v1alpha1"

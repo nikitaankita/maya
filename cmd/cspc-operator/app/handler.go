@@ -24,7 +24,7 @@ import (
 
 	apiscsp "github.com/openebs/maya/pkg/cstor/poolinstance/v1alpha3"
 	"time"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	nodeselect "github.com/openebs/maya/pkg/algorithm/nodeselect/v1alpha2"
 	apis "github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"

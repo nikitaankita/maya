@@ -16,7 +16,7 @@ package command
 
 import (
 	goflag "flag"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	"github.com/openebs/maya/pkg/util"
 	"github.com/spf13/cobra"

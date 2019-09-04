@@ -23,7 +23,7 @@ import (
 	"text/template"
 
 	"strings"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	apis "github.com/openebs/maya/pkg/apis/openebs.io/v1alpha1"
 	cvapis "github.com/openebs/maya/pkg/cstor/volume/v1alpha1"

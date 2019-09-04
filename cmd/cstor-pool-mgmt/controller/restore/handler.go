@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 	"reflect"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/cstor-pool-mgmt/controller/common"
 	"github.com/openebs/maya/cmd/cstor-pool-mgmt/volumereplica"

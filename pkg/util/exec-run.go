@@ -22,7 +22,7 @@ import (
 	"github.com/pkg/errors"
 
 	"context"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 )
 

@@ -20,7 +20,7 @@ import (
 	"reflect"
 	"sync"
 	"time"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	"github.com/openebs/maya/cmd/cstor-pool-mgmt/pool"
 	"github.com/openebs/maya/cmd/cstor-pool-mgmt/volumereplica"

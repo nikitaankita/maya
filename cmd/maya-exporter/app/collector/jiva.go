@@ -27,7 +27,7 @@ import (
 
 	v1 "github.com/openebs/maya/pkg/stats/v1alpha1"
 	"github.com/pkg/errors"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 )
 

@@ -18,7 +18,7 @@ import (
 	"sync"
 
 	"github.com/pkg/errors"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	col "github.com/openebs/maya/cmd/maya-exporter/app/collector"
 	types "github.com/openebs/maya/pkg/exec"

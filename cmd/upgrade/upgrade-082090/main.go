@@ -20,7 +20,7 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	log "github.com/moteesh/mlogger/glog"
+	log "github.com/mayadata-io/mlogger/glog"
 	//log "github.com/golang/glog"
 	upgrade "github.com/openebs/maya/cmd/upgrade/app/v1alpha1"
 )

@@ -20,7 +20,7 @@ import (
 	"strings"
 
 	"path/filepath"
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	"github.com/pkg/errors"
 )

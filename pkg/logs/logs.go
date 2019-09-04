@@ -22,7 +22,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/moteesh/mlogger/glog"
+	"github.com/mayadata-io/mlogger/glog"
 	//"github.com/golang/glog"
 	"github.com/spf13/pflag"
 	"k8s.io/apimachinery/pkg/util/wait"

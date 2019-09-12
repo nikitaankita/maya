@@ -269,14 +269,14 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:206cbe10aff3d9ec3638573eff9162e7978a0b279759dc1afe8dce94043d4834"
+  digest = "1:20f678cffa0038c58f74237f68d6a3eba0b9b54d52919a141b378ccec2a3dcc3"
   name = "github.com/mayadata-io/mlogger"
   packages = [
     "common",
     "glog",
   ]
   pruneopts = "UT"
-  revision = "dd1d3d940c97539935f6f548e1f51b184e640e03"
+  revision = "38fbb188c354b904e68cb898b8b2fa729ec46e59"
 
 [[projects]]
   digest = "1:3a3bc3c022d600ed4aced1d220d92c80bf3e42ff5acf95b59839f7af9ac53346"
